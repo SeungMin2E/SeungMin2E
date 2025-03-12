@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://github.com/SeungMin2E"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=min225613@naver.com&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SeungMin's github Status" /></a>
+- 🔭 I’m currently working on Gachon University -
 <!--
 **SeungMin2E/SeungMin2E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
