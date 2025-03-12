@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **SeungMin2E/SeungMin2E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
